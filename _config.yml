@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christopher / ArcGIS"
+title                    : "Christopher"
 title_separator          : "-"
 name                     : &name "Christopher"
 description              : &description "CSMB Coding and GIS Student"
