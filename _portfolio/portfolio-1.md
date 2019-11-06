@@ -1,6 +1,6 @@
 ---
 title: "Triangles Triangles Triangles"
-excerpt: "Short description of portfolio item number 1"<br/>
+excerpt: "Short description of portfolio item number 1<br/>"
 
 <iframe height="400px" width="100%" src="https://repl.it/@Christopher_Pat/Right-Triangle?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
